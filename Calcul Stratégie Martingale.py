@@ -18,5 +18,6 @@ def martingale(**kwargs):
     else:
         return " [FAIL] : s_totale et s_dep ont été eux deux renseigné..."
 
+#EXEMPLES
 print(martingale(s_totale=400,marge=10))
 print(martingale(s_dep=0.1,marge=10))
