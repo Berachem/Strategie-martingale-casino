@@ -10,11 +10,14 @@ def martingale(**kwargs):
 
     """
 
-    assert "marge" in kwargs.keys(), "Vous avez oubliez de mentionner la marge d'erreur à l'aide du 'range' !"
+    assert "marge" in kwargs.keys(), "Vous avez oubliez de mentionner la marge d'erreur !"
+    
     if "s_dep" in kwargs.keys() and not ("s_totale" in kwargs.keys()):
         return "La somme totale à avoir est de : " + str( kwargs["s_dep"]* sum([2**i for i in range(kwargs["marge"])]) ) + " euros."
+    
     elif "s_totale" in kwargs.keys() and not ("s_dep" in kwargs.keys()):
         return "La somme de départ à avoir est de : " + str( kwargs["s_totale"]/sum([2**i for i in range(kwargs["marge"])]) ) + " euros."
+    
     else:
         return " [FAIL] : s_totale et s_dep ont été eux deux renseigné..."
 
