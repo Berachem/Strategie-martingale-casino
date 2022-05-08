@@ -1,4 +1,4 @@
-# Projet
+# 🎰 Aide Mise à la Roulette
 Voici une "aide" pour savoir combien faut-il miser et combien de fois pour être gagnant au jeu de la roulette 🎰🎲
 
 # Stratégie de la Martingale
