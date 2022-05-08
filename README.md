@@ -10,6 +10,7 @@ Vous devez également savoir qu’il est strictement interdit d’utiliser une t
 # Application Mathématique avec un exemple
 Voici ce qui a pu m'aider pour faire découller la formule et ainsi l'implémentation d'un tel Programme
 
-![calcul martingale](https://user-images.githubusercontent.com/61350744/132385511-754fe8d9-b43d-4cdf-9a46-908b20d368a7.jpg)
+![martingale](https://user-images.githubusercontent.com/61350744/167306254-b2f5626e-d6e4-4576-a326-5cb5e26e88a6.jpg)
+
 
 Il existe plein [d'autres stratégies ](https://www.casino.org/canada/fr/roulette/strategie/) qui sont gagnantes telles que la Fibonnaci, l'Andrucci, l'Alembert... Tous des mathématiciens célèbres. Comme quoi... il vaut mieux faire un peu de Maths avant de se rendre dans un casino, ça pourrait nous faire gagner un peu d'argent 🙂
