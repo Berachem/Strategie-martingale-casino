@@ -6,6 +6,8 @@ L’objectif d’une martingale est de réduire à néant l’avantage mathémat
 
 Vous devez également savoir qu’il est strictement interdit d’utiliser une telle stratégie dans les casinos terrestres, au risque de se faire expulsé manu militari. Par contre, vous pouvez facilement vous en servir en jouant sur les casinos en ligne. 
 
+![image](https://github.com/Berachem/Strategie-maths-casino/assets/61350744/dda71193-90cc-4dda-9c03-eb4ca3dd5d24)
+
 
 # 🪄 Application Mathématique avec un exemple
 Voici ce qui a pu m'aider pour faire découller la formule et ainsi l'implémentation d'un tel Programme
